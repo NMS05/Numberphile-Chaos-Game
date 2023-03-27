@@ -1,1 +1,3 @@
 # Numberphile-Chaos-Game
+
+A Colab notebook implementing ["The Chaos Game"] (https://www.youtube.com/watch?v=kbKtFN71Lfs) as explained in the math YouTube channel [Numberphile] (https://www.youtube.com/@numberphile). Two fractal structures are provided here...
